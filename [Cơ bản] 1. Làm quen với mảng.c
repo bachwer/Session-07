@@ -6,7 +6,7 @@ int main() {
         month[i] = i;
         printf("%d\n", month[i]);
     }
-    
+        printf("do dai cua mang la: %d", sizeof(month) / sizeof(int));
   
     return 0;
 }
