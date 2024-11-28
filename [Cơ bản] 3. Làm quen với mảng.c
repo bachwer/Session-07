@@ -6,7 +6,7 @@ int main() {
        if(num[i] % 2 == 0){
         printf("%d\n", num[i]);
        }else{
-           printf("Mang ko chua so chan !!");
+           printf("Mang ko chua so chan !!\n");
        }
     }
     
